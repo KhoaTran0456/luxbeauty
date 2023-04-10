@@ -1,0 +1,305 @@
+{
+  "info": {
+    "salon": {
+      "store"     : "Lux Beauty",
+      "slug"      : "Lux-beauty",
+      "phone"     : "(650) 948-4501",
+      "email"     : "thu.thuyngo@yahoo.com",
+      "address"   : "555 San Antonio Rd #43, Mountain view, California 94040",
+      "district"  : "Mountain view",
+      "state"     : "California 94040",
+      "time_1"    : "[Mon - Sat] 09:00 AM - 07:00 PM",
+      "time_2"    : "[Sun] 10:00 AM - 07:00 PM"
+      
+    },
+    "social": {
+      "facebook"  : "https://goo.gl/maps/domuEvW5st2zKY4R9",
+      "instagram" : "https://goo.gl/maps/domuEvW5st2zKY4R9",
+      "google"    : "https://goo.gl/maps/domuEvW5st2zKY4R9",
+      "booking"   : "https://www.lldtek.com/salon/appt/NDgxMjd8YmVhdXR5NTU1fENBXzA4MDIyfGI3M2Y3NzVhYmZjY2UxYTk1OWI5ODE0N2M2MzFkMGIz",
+      "maps"      : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3169.4663463029033!2d-122.11424242362482!3d37.40245083351934!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb09eb10ffe93%3A0xfae89bdb282b5e45!2sLux%20Beauty%20Nail%20Care!5e0!3m2!1sen!2s!4v1681104465717!5m2!1sen!2s"
+    },
+    "color": {
+      "primary"               : "rgb(35 31 32 / 100%)",
+      "primary_light"         : "rgb(35 31 32 / 80%)",
+      "primary_hover"         : "rgb(35 31 32 / 50%)",
+      "secondary"             : "#474747",
+      "secondary_hover"       : "rgb(249 230 134)",
+      "text_primary"          : "#FFFFFF",
+      "text_primary_hover"    : "#FFFFFF",
+      "text_secondary"        : "#FFFFFF",
+      "text_secondary_hover"  : "#FFFFFF",
+      "text_title"            : "#429D64",
+      "text_title_hover"      : "#90C73E"
+    },
+    "debug": "on",
+    "path_image": "images",
+    "domain": "http://127.0.0.1:5503/"
+  },
+  "gallery": [
+    {
+      "name": "gallery-01",
+      "url": "Nails-by-design-gallery-01.jpg",
+      "home": true
+    },
+    {
+      "name": "gallery-02",
+      "url": "Nails-by-design-gallery-02.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-03",
+      "url": "Nails-by-design-gallery-03.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-04",
+      "url": "Nails-by-design-gallery-04.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-05",
+      "url": "Nails-by-design-gallery-05.jpg",
+      "home": true
+    },
+    {
+      "name": "gallery-06",
+      "url": "Nails-by-design-gallery-06.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-07",
+      "url": "Nails-by-design-gallery-07.jpg",
+      "home": true
+    },
+    {
+      "name": "gallery-08",
+      "url": "Nails-by-design-gallery-08.jpg",
+      "home": true
+    },
+    {
+      "name": "gallery-09",
+      "url": "Nails-by-design-gallery-09.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-10",
+      "url": "Nails-by-design-gallery-10.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-11",
+      "url": "Nails-by-design-gallery-11.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-12",
+      "url": "Nails-by-design-gallery-12.jpg",
+      "home": false
+    }
+  ],
+  "specialties": [
+    {
+      "name": "specialties-02",
+      "url": "Nails-by-design-gallery-08.jpg"
+    },
+    {
+      "name": "specialties-03",
+      "url": "Nails-by-design-gallery-07.jpg"
+    },
+    {
+      "name": "specialties-04",
+      "url": "Nails-by-design-gallery-06.jpg"
+    },
+    {
+      "name": "specialties-05",
+      "url": "Nails-by-design-gallery-05.jpg"
+    },
+    {
+      "name": "specialties-06",
+      "url": "Nails-by-design-gallery-04.jpg"
+    },
+    {
+      "name": "specialties-07",
+      "url": "Nails-by-design-gallery-03.jpg"
+    },
+    {
+      "name": "specialties-08",
+      "url": "Nails-by-design-gallery-02.jpg"
+    },
+    {
+      "name": "specialties-09",
+      "url": "Nails-by-design-gallery-01.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "name": "PEDICURE",
+      "target": "PEDICURE",
+      "src": "",
+      "home": true,
+      "description": ""
+    },
+    {
+      "name": "MANICURE",
+      "target": "MANICURE",
+      "src": "",
+      "home": true,
+      "description": ""
+    },
+    {
+      "name": "THREADING",
+      "target": "THREADING",
+      "src": "",
+      "home": true,
+      "description": ""
+    },
+    {
+      "name": "WAXING",
+      "target": "WAXING",
+      "src": "",
+      "home": true,
+      "description": ""
+    },
+    {
+      "name": "ADD-ONS SERVICE",
+      "target": "ADDONSSERVICE",
+      "src": "",
+      "home": true,
+      "description": ""
+    }
+    
+  ],
+  "services": [
+    {
+      "category": "PEDICURE",
+      "name": "BASIC/EXPRESS PEDI WITH REGULAR COLOR",
+      "description": "",
+      "url": "",
+      "price": 35,
+      "plus": false
+    },
+    {
+      "category": "PEDICURE",
+      "name": "EXPRESS PEDICURE WITH GEL COLOR",
+      "description": "",
+      "url": "",
+      "price": 50,
+      "plus": false
+    },
+    {
+      "category": "PEDICURE",
+      "name": "EXPRESS PEDI WITH GEL COLOR OFF AND ON",
+      "description": "",
+      "url": "",
+      "price": 55,
+      "plus": false
+    },
+    
+    
+    {
+      "category": "MANICURE",
+      "name": "BASIC (EXPRESS) MANI WITH REGULAR COLOR",
+      "description": "",
+      "url": "",
+      "price": 30,
+      "plus": false
+    },
+    {
+      "category": "MANICURE",
+      "name": "BASIC (EXPRESS) MANI WITH GEL COLOR",
+      "description": "",
+      "url": "",
+      "price": 40,
+      "plus": false
+    },
+    {
+      "category": "MANICURE",
+      "name": "BASIC (EXPRESS) MANI WITH GEL COLOR OFF AND ON",
+      "description": "",
+      "url": "",
+      "price": 45,
+      "plus": false
+    },
+        
+    
+    {
+      "category": "THREADING",
+      "name": "EYEBROW",
+      "description": "",
+      "url": "",
+      "price": 20,
+      "plus": false
+    },
+    {
+      "category": "THREADING",
+      "name": "UPPER LIP",
+      "description": "",
+      "url": "",
+      "price": 12,
+      "plus": false
+    },
+    {
+      "category": "THREADING",
+      "name": "LOWER LIP",
+      "description": "",
+      "url": "",
+      "price": 12,
+      "plus": false
+    },
+
+
+    {
+      "category": "WAXING",
+      "name": "EYEBROW NEW SHAPE",
+      "description": "",
+      "url": "",
+      "price": 20,
+      "plus": false
+    },
+    {
+      "category": "WAXING",
+      "name": "EYEBROW MANTAINED",
+      "description": "",
+      "url": "",
+      "price": 15,
+      "plus": false
+    },
+    {
+      "category": "WAXING",
+      "name": "LIP",
+      "description": "",
+      "url": "",
+      "price": 10,
+      "plus": false
+    },
+
+
+
+    {
+      "category": "ADD-ONS SERVICE",
+      "name": "PARAFFIN HANDS TREATMENT",
+      "description": "",
+      "url": "",
+      "price": 10,
+      "plus": false
+    },
+    {
+      "category": "ADD-ONS SERVICE",
+      "name": "PARAFFIN FEET TREATMENT",
+      "description": "",
+      "url": "",
+      "price": 12,
+      "plus": false
+    },
+    {
+      "category": "ADD-ONS SERVICE",
+      "name": "FRENCH",
+      "description": "",
+      "url": "",
+      "price": 10,
+      "plus": false
+    }
+    
+  ]
+}
