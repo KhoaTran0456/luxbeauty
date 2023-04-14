@@ -112,7 +112,7 @@ div#navbar {
 
 ul.nav.navbar-nav li a {
 	font-size: 17px;
-	color: #fff;
+	color: #000;
 	border-bottom: 2px solid rgba(0, 0, 0, 0);
 	padding: 20px 0px;
 	transition: 0.5s all;
@@ -3277,7 +3277,7 @@ button.close {
 	.navbar-default .navbar-collapse,
 	.navbar-default .navbar-form {
 		border-color: #e7e7e7;
-		background: rgb(0, 0, 0);
+		background: #f0f0f0;
 	}
 
 	nav.navbar.navbar-default.navbar-fixed-top {
