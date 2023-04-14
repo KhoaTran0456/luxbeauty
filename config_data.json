@@ -134,22 +134,15 @@
   ],
   "categories": [
     {
-      "name": "PEDICURE",
-      "target": "PEDICURE",
+      "name": "FACIAL",
+      "target": "FACIAL",
       "src": "",
       "home": true,
       "description": ""
     },
     {
-      "name": "MANICURE",
-      "target": "MANICURE",
-      "src": "",
-      "home": true,
-      "description": ""
-    },
-    {
-      "name": "THREADING",
-      "target": "THREADING",
+      "name": "EYELASH EXTENSIONS",
+      "target": "EYELASHEXTENSIONS",
       "src": "",
       "home": true,
       "description": ""
@@ -162,8 +155,36 @@
       "description": ""
     },
     {
-      "name": "ADD-ONS SERVICE",
-      "target": "ADDONSSERVICE",
+      "name": "THREADING",
+      "target": "THREADING",
+      "src": "",
+      "home": true,
+      "description": ""
+    },
+    {
+      "name": "MANICURE",
+      "target": "MANICURE",
+      "src": "",
+      "home": true,
+      "description": ""
+    },
+    {
+      "name": "PEDICURE",
+      "target": "PEDICURE",
+      "src": "",
+      "home": true,
+      "description": ""
+    },
+    {
+      "name": "ENHANCES SERVICE",
+      "target": "ENHANCESSERVICE",
+      "src": "",
+      "home": true,
+      "description": ""
+    },
+    {
+      "name": "ADD-ON SERVICE",
+      "target": "ADDONSERVICE",
       "src": "",
       "home": true,
       "description": ""
@@ -171,6 +192,122 @@
     
   ],
   "services": [
+    {
+      "category": "FACIAL",
+      "name": "FACAIL SPA NU SKIN",
+      "description": "",
+      "url": "",
+      "price": 90,
+      "plus": false
+    },
+
+
+    {
+      "category": "EYELASH EXTENSIONS",
+      "name": "Full Set with One By One",
+      "description": "",
+      "url": "",
+      "price": 150,
+      "plus": false
+    },
+    {
+      "category": "EYELASH EXTENSIONS",
+      "name": "Refill 2 Weeks",
+      "description": "",
+      "url": "",
+      "price": 75,
+      "plus": false
+    },
+    {
+      "category": "EYELASH EXTENSIONS",
+      "name": "Refill 3 Weeks",
+      "description": "",
+      "url": "",
+      "price": 90,
+      "plus": false
+    },
+    {
+      "category": "EYELASH EXTENSIONS",
+      "name": "Half Set with One By One",
+      "description": "",
+      "url": "",
+      "price": 90,
+      "plus": false
+    },
+    {
+      "category": "EYELASH EXTENSIONS",
+      "name": "Refill 2 Weeks",
+      "description": "",
+      "url": "",
+      "price": 75,
+      "plus": false
+    },
+    {
+      "category": "EYELASH EXTENSIONS",
+      "name": "2D Full Set",
+      "description": "",
+      "url": "",
+      "price": 180,
+      "plus": false
+    },
+    {
+      "category": "EYELASH EXTENSIONS",
+      "name": "Refill 2 Weeks",
+      "description": "",
+      "url": "",
+      "price": 75,
+      "plus": false
+    },
+    {
+      "category": "EYELASH EXTENSIONS",
+      "name": "Refill 3 Weeks",
+      "description": "",
+      "url": "",
+      "price": 100,
+      "plus": false
+    },
+    {
+      "category": "EYELASH EXTENSIONS",
+      "name": "2D Half Set",
+      "description": "",
+      "url": "",
+      "price": 120,
+      "plus": false
+    },
+    {
+      "category": "EYELASH EXTENSIONS",
+      "name": "Refill 2 Weeks",
+      "description": "",
+      "url": "",
+      "price": 75,
+      "plus": false
+    },
+    {
+      "category": "EYELASH EXTENSIONS",
+      "name": "3D Full Set",
+      "description": "",
+      "url": "",
+      "price": 220,
+      "plus": false
+    },
+    {
+      "category": "EYELASH EXTENSIONS",
+      "name": "Refill 2 Weeks",
+      "description": "",
+      "url": "",
+      "price": 85,
+      "plus": false
+    },
+    {
+      "category": "EYELASH EXTENSIONS",
+      "name": "Refill 3 Weeks",
+      "description": "",
+      "url": "",
+      "price": 130,
+      "plus": false
+    },
+
+    
     {
       "category": "PEDICURE",
       "name": "BASIC/EXPRESS PEDI WITH REGULAR COLOR",
@@ -275,9 +412,122 @@
     },
 
 
+    {
+      "category": "ENHANCES SERVICE",
+      "name": "BUILDER GEL",
+      "description": "",
+      "url": "",
+      "price": 70,
+      "plus": false
+    },
+    {
+      "category": "ENHANCES SERVICE",
+      "name": "GEL X",
+      "description": "",
+      "url": "",
+      "price": 70,
+      "plus": false
+    },
+    {
+      "category": "ENHANCES SERVICE",
+      "name": "NEW SET ACRYLIC WITH GEL COLOR",
+      "description": "",
+      "url": "",
+      "price": 70,
+      "plus": false
+    },
+    {
+      "category": "ENHANCES SERVICE",
+      "name": "FILLS AND REBALANCES FOR ACRYLIC W GEL COLOR",
+      "description": "",
+      "url": "",
+      "price": 60,
+      "plus": false
+    },
+    {
+      "category": "ENHANCES SERVICE",
+      "name": "NEW SET ACRYLIC WITH REGULAR COLOR",
+      "description": "",
+      "url": "",
+      "price": 60,
+      "plus": false
+    },
+    {
+      "category": "ENHANCES SERVICE",
+      "name": "FILLS AND REBALANCES FOR ACRYLIC W REGULAR COLOR",
+      "description": "",
+      "url": "",
+      "price": 50,
+      "plus": false
+    },
+    {
+      "category": "ENHANCES SERVICE",
+      "name": "DIPPING POWDER OVERLAY",
+      "description": "",
+      "url": "",
+      "price": 60,
+      "plus": false
+    },
+    {
+      "category": "ENHANCES SERVICE",
+      "name": "DIPPING POWDER WITH EXTENSION",
+      "description": "",
+      "url": "",
+      "price": 70,
+      "plus": false
+    },
+    {
+      "category": "ENHANCES SERVICE",
+      "name": "DIPPING POWDER OVERLAY WITH OLD POWDER REMOVAL",
+      "description": "",
+      "url": "",
+      "price": 70,
+      "plus": false
+    },
+    {
+      "category": "ENHANCES SERVICE",
+      "name": "DIPPING POWDER WITH EXTENSION AND OLD POWDER REMOVAL",
+      "description": "",
+      "url": "",
+      "price": 75,
+      "plus": false
+    },
+    {
+      "category": "ENHANCES SERVICE",
+      "name": "OMBRE ACRYLIC SET OVERLAY",
+      "description": "",
+      "url": "",
+      "price": 70,
+      "plus": false
+    },
+    {
+      "category": "ENHANCES SERVICE",
+      "name": "OMBRE ACRYLIC SET WITH EXTENSION",
+      "description": "",
+      "url": "",
+      "price": 75,
+      "plus": false
+    },
+    {
+      "category": "ENHANCES SERVICE",
+      "name": "ACRYLIC REMOVAL",
+      "description": "",
+      "url": "",
+      "price": 30,
+      "plus": false
+    },
+    {
+      "category": "ENHANCES SERVICE",
+      "name": "ACRYLIC REMOVAL WITH NEW SET",
+      "description": "",
+      "url": "",
+      "price": 25,
+      "plus": false
+    },
+
 
     {
-      "category": "ADD-ONS SERVICE",
+      "category": "ADD-ON SERVICE",
       "name": "PARAFFIN HANDS TREATMENT",
       "description": "",
       "url": "",
@@ -285,7 +535,7 @@
       "plus": false
     },
     {
-      "category": "ADD-ONS SERVICE",
+      "category": "ADD-ON SERVICE",
       "name": "PARAFFIN FEET TREATMENT",
       "description": "",
       "url": "",
@@ -293,7 +543,7 @@
       "plus": false
     },
     {
-      "category": "ADD-ONS SERVICE",
+      "category": "ADD-ON SERVICE",
       "name": "FRENCH",
       "description": "",
       "url": "",

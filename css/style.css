@@ -181,7 +181,7 @@ ul.dropdown-menu {
 /*--end nav bar--*/
 .w3-agile-logo {
 	padding: 1em 0;
-	background-image: linear-gradient(135deg, #666666, #666666);
+	background-image: linear-gradient(135deg, #f2f2f2, #f2f2f2);
 }
 
 .head-wl {
@@ -215,7 +215,7 @@ ul.dropdown-menu {
 h6.caption {
 	font-size: 20px;
 	letter-spacing: 2px;
-	color: #cbcbcb;
+	color: #808080;
 	margin: 4px 0px 9px;
 }
 
@@ -224,12 +224,12 @@ h6.caption {
 a,
 .agileinfo-social-grids a {
 	font-size: 18px;
-	color: #fff;
+	color: #000;
 	letter-spacing: 2px;
 }
 
 .w3-header-top-right-text a:hover {
-	color: #fff;
+	color: #3f3f3f;
 }
 
 .email-right p a,
@@ -248,7 +248,7 @@ a,
 
 .email-right p a:hover,
 .agileinfo-social-grids ul li a :hover {
-	color: #fffa8a;
+	color: #3f3f3f;
 	transition: 0.5s all;
 	-webkit-transition: 0.5s all;
 	-moz-transition: 0.5s all;
@@ -1505,6 +1505,7 @@ h6 {
 	.margin-top{
 		margin-top: 0 !important;
 	}
+	
 }
 
 @media (min-width: 1024px) {
@@ -1546,6 +1547,7 @@ h6 {
 	}
 }
 
+
 @media (max-width:768px) {
 	h3.agileits-icons-title {
 		font-size: 18px;
@@ -1568,6 +1570,7 @@ h6 {
 	.pricing-col {
 		margin: 30px 0;
 	}
+	
 }
 
 @media (max-width:767px) {
@@ -4523,10 +4526,10 @@ button.close {
 
 .title-big {
     font-size: 20px;
-    color:#141414;
-    font-weight: 300;
+    color:#c89a43;
+    font-weight: 700;
     padding: 0 0 10px 0;
-    letter-spacing: 4px;
+    letter-spacing: 0px;
 }
 
 .display-table {
